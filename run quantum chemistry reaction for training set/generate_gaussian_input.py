@@ -3,7 +3,7 @@ import os
 # Atom configuration - you can modify these three atom types
 ATOM1 = 'H'    # First atom type
 ATOM2 = 'H'    # Second atom type  
-ATOM3 = 'F'   # Third atom type
+ATOM3 = 'Ne'   # Third atom type
 
 # Create main folder name
 MAIN_FOLDER = f"{ATOM1}_{ATOM2}_{ATOM3}_gaussian_calculations"
@@ -14,7 +14,7 @@ string1='''%mem=10GB
 
 Title Card Required
 
-0 2
+1 2
  {}                  0.00    0.00    0.00
 '''.format(ATOM1)
 
