@@ -1,0 +1,2 @@
+# Construction-of-Potential-Energy-Surface-for-Molecular-Simulation-Based-on-Artificial-Intelligence
+focuses on the one-dimensional triatomic collision reaction Ne + H2+ → NeH+ + H, a classical reaction in physical chemistry. Starting with quantum chemistry calculations, we developed a user-friendly open-source package in Python, leveraging the machine learning framework PyTorch to fit the PES of this reaction.
